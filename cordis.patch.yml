@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-screenshot-plugin
+      name: dsh-screenshot-plugin
+      config: {}
