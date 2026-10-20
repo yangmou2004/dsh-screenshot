@@ -47,6 +47,12 @@ plugin_manager install_bundle target = "C:\path\to\dsh-screenshot"
 
 The plugin package name is `dsh-screenshot-plugin` (the repository directory is `dsh-screenshot`). Refresh the page once if the camera button does not appear. No `npm install` or build step is required.
 
+### Share it
+
+- Send the repository link: <https://github.com/yangmou2004/dsh-screenshot>
+- Or send the [Release zip](https://github.com/yangmou2004/dsh-screenshot/releases/latest); extract it and install the extracted directory
+- See [docs/INSTALL.md](docs/INSTALL.md) for a copy-paste message and detailed steps (Chinese)
+
 ## Usage
 
 ### Ask the agent

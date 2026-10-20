@@ -58,6 +58,12 @@
 > 插件包名是 `dsh-screenshot-plugin`；仓库目录名是 `dsh-screenshot`，两者不同是正常的。
 > 安装的是本地目录，不需要 `npm install`，也没有构建步骤。
 
+### 分享给别人
+
+- 直接发仓库链接：<https://github.com/yangmou2004/dsh-screenshot>
+- 或让对方下载 [Release 安装包](https://github.com/yangmou2004/dsh-screenshot/releases/latest)，解压后安装解压目录
+- 详细步骤、系统要求和一段可直接复制的话见 [docs/INSTALL.md](docs/INSTALL.md)
+
 ## 使用
 
 ### 方式一：直接对智能体说
